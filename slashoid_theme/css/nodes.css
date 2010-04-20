@@ -37,7 +37,7 @@
 .node.ntype-drigg a:visited { color: #7facc6; }
 .node.ntype-drigg .story * { display: inline; }
 .node.ntype-drigg .story small a { color: #666; }
-.node.ntype-drigg .story p { margin: 0; }
+.node.ntype-drigg .story p { margin: 0; display: block; margin-bottom: 1em; }
 
 /* Embedded content */
 .node.ntype-drigg .embedded-teaser div {
